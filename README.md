@@ -1,19 +1,26 @@
 # Excel Data Cleaning and Analysis Project
 
-This project was completed as part of the IBM Data Analyst Professional Certificate.  
-It includes two assignments demonstrating skills in data cleaning, formatting, and pivot tables using Excel.
+This project is part of the IBM Data Analyst Professional Certificate.  
+It involves data cleaning, formatting, and analysis using Microsoft Excel.
 
-## 📁 Files
+## 📂 Files Included
 
-- `Part1_FleetInventory_Raw.xlsx`: Uncleaned data for Part 1  
-- `Part1_FleetInventory_Solution.xlsx`: Cleaned and formatted version of Part 1  
-- `Part2_FleetInventory_Raw.xlsx`: Raw data for pivot table analysis  
-- `Part2_FleetInventory_Solution.xlsx`: Final version with pivot tables
+### Part 1:
+- **Part1_FleetInventory_Raw.xlsx** – Raw data file before cleaning
+- **Part1_FleetInventory_Solution.xlsx** – Cleaned and formatted dataset
 
-## 🧠 Skills Demonstrated
+### Part 2:
+- **Part2_FleetInventory_Raw.xlsx** – Raw data file for pivot analysis
+- **Part2_FleetInventory_Solution.xlsx** – File with formatted tables and pivot tables
 
-- Data Cleaning  
-- Table Formatting  
-- AutoSum  
-- Pivot Table Creation  
-- Sorting and Field Selection
+## 🧠 Key Skills Demonstrated
+- Data Cleaning & Formatting  
+- Excel Table Creation  
+- AutoSum Calculations  
+- Pivot Table Creation & Sorting  
+- Workbook Structuring
+
+## 🎯 Purpose
+To demonstrate foundational Excel skills required for data analysis — including transforming messy data into structured insights.
+
+---
